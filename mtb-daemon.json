@@ -1,6 +1,851 @@
 {
     "loglevel": 3,
     "modules": {
+        "001": {
+            "config": {
+                "inputsDelay": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "outputsSafe": [
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    }
+                ],
+                "servoEnabledMask": 1,
+                "servoInputMap": [
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "servoPosition": [
+                    50,
+                    150,
+                    70,
+                    90,
+                    70,
+                    90,
+                    70,
+                    90,
+                    70,
+                    90,
+                    70,
+                    90
+                ],
+                "servoSpeed": [
+                    100,
+                    20,
+                    20,
+                    20,
+                    20,
+                    20
+                ]
+            },
+            "name": "Kamenice východ",
+            "type": 80
+        },
+        "002": {
+            "config": {
+                "inputsDelay": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "outputsSafe": [
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    }
+                ],
+                "servoEnabledMask": 0,
+                "servoInputMap": [
+                    1,
+                    3,
+                    5,
+                    7,
+                    9,
+                    11
+                ],
+                "servoPosition": [
+                    50,
+                    100,
+                    50,
+                    100,
+                    50,
+                    100,
+                    50,
+                    100,
+                    50,
+                    100,
+                    50,
+                    100
+                ],
+                "servoSpeed": [
+                    100,
+                    30,
+                    30,
+                    30,
+                    30,
+                    30
+                ]
+            },
+            "name": "Kamenice východ",
+            "type": 80
+        },
+        "003": {
+            "config": {
+                "inputsDelay": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "outputsSafe": [
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    }
+                ],
+                "servoEnabledMask": 0,
+                "servoInputMap": [
+                    1,
+                    3,
+                    5,
+                    7,
+                    9,
+                    11
+                ],
+                "servoPosition": [
+                    50,
+                    100,
+                    50,
+                    100,
+                    50,
+                    100,
+                    50,
+                    100,
+                    50,
+                    100,
+                    50,
+                    100
+                ],
+                "servoSpeed": [
+                    100,
+                    30,
+                    30,
+                    30,
+                    30,
+                    30
+                ]
+            },
+            "name": "Kamenice západ",
+            "type": 80
+        },
+        "004": {
+            "config": {
+                "inputsDelay": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "outputsSafe": [
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    }
+                ],
+                "servoEnabledMask": 1,
+                "servoInputMap": [
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "servoPosition": [
+                    50,
+                    150,
+                    70,
+                    90,
+                    70,
+                    90,
+                    70,
+                    90,
+                    70,
+                    90,
+                    70,
+                    90
+                ],
+                "servoSpeed": [
+                    100,
+                    20,
+                    20,
+                    20,
+                    20,
+                    20
+                ]
+            },
+            "name": "Potůčky západ",
+            "type": 80
+        },
+        "005": {
+            "config": {
+                "inputsDelay": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "outputsSafe": [
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    },
+                    {
+                        "type": "plain",
+                        "value": 0
+                    }
+                ],
+                "servoEnabledMask": 0,
+                "servoInputMap": [
+                    1,
+                    3,
+                    5,
+                    7,
+                    9,
+                    11
+                ],
+                "servoPosition": [
+                    50,
+                    100,
+                    50,
+                    100,
+                    50,
+                    100,
+                    50,
+                    100,
+                    50,
+                    100,
+                    50,
+                    100
+                ],
+                "servoSpeed": [
+                    100,
+                    30,
+                    30,
+                    30,
+                    30,
+                    30
+                ]
+            },
+            "name": "Potůčky východ",
+            "type": 80
+        }
     },
     "mtb-usb": {
         "keepAlive": true,
