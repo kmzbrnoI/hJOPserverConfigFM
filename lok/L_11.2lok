@@ -1,0 +1,18 @@
+﻿[global]
+version=2.1
+
+[11]
+nazev=Sergej
+majitel=MŽ SOŠ FM
+oznaceni=781 194-6
+poznamka=
+trida=1
+max_rychlost=100
+prechodnost=0
+multitrakce=1
+pom_automat=
+pom_manual=
+pom_release=manual
+func_vyznam={světla};;;;;;;{houkačka dlouhá};{zvuk};{houkačka krátka};{houkačka};{houkačka};{povolte brzdy úplně};{píšťala dlouhá};{píšťala krátká};;;;;;;;;;;;;;;
+func_type=PPPPPPPMPMMMMMMPPPPPPPPPPPPPP
+

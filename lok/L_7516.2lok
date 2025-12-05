@@ -1,0 +1,18 @@
+﻿[global]
+version=2.1
+
+[7516]
+nazev=Zamračená
+majitel=MŽ SOŠ FM
+oznaceni=751 176-9
+poznamka=
+trida=1
+max_rychlost=100
+prechodnost=0
+multitrakce=1
+pom_automat=
+pom_manual=
+pom_release=manual
+func_vyznam={světla};{zvuk};{houkačka krátká};{houkačka dlouhá};{píšťala};{šroubovka};;;;;;;;;;;;;;;;;;;;;;;;
+func_type=PPMMMMPPPPPPPPPPPPPPPPPPPPPPP
+
