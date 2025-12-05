@@ -13,6 +13,6 @@ multitrakce=1
 pom_automat=
 pom_manual=
 pom_release=manual
-func_vyznam={světla};{konce};{reflektor};{světla posun};;{stanoviště};;{koukačka dlouhá};{zvuk};{koukačka krátká};{houkačka};{houkačka};{povolte brzdy úplně};{píšťala dlouhá};{píšťala krátka};;;;;;;;;;;;;;;
+func_vyznam={světla};{konce};{reflektor};{světla posun};;{stanoviště};;{houkačka dlouhá};{zvuk};{houkačka krátká};{houkačka};{houkačka};{povolte brzdy úplně};{píšťala dlouhá};{píšťala krátka};;;;;;;;;;;;;;;
 func_type=PPPPPPPMPMMMMMMPPPPPPPPPPPPPP
 
